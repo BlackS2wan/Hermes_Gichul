@@ -45,7 +45,7 @@
 {"en": "result from", "pos": "동사", "ko": "~에서 비롯되다", "level": "26학년도 수능 31"},
  {"en": "business", "pos": "명사", "ko": "사업", "level": "26학년도 수능 31"},
 {"en": "know", "pos": "동사", "ko": "알다", "level": "26학년도 수능 31"},
-{"en": "state", "pos": "명사", "ko": "상태", "level": "26학년도 수능 31"},
+{"en": "state", "pos": "명사,동사", "ko": "상태,진술하다", "level": "26학년도 수능 31"},
 {"en": "information", "pos": "명사", "ko": "정보", "level": "26학년도 수능 31"},
 {"en": "in addition", "pos": "부사", "ko": "게다가", "level": "26학년도 수능 31"},
 {"en": "benefit from", "pos": "동사", "ko": "~로부터 이익을 얻다", "level": "26학년도 수능 31"},

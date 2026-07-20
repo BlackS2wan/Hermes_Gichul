@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0046)file:///C:/Users/user/Downloads/HERMES_22.html -->
+<!-- saved from url=(0046)file:///C:/Users/user/Downloads/HERMES_23.html -->
 <html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -691,7 +691,8 @@
         [{ label: "41~42", nums: ["41", "42"] }, { label: "전체", nums: null }],
       ];
       yearCategories.forEach(cat => {
-        const count = ALL_WORDS.filter(w => w.level === cat).length;
+        const catWords = ALL_WORDS.filter(w => w.level === cat || (w.level && w.level.startsWith(cat + " ")));
+        const count = new Set(catWords.map(w => w.en)).size;
         const label = LEVEL_LABEL_EN[cat] || cat;
         const color = LEVEL_TIER_COLOR[cat];
 
@@ -725,7 +726,7 @@
             const isAll = item.nums === null;
             const subLevels = isAll ? null : item.nums.map(n => `${cat} ${n}`);
             const subCount = isAll
-              ? ALL_WORDS.filter(w => w.level === cat || (w.level && w.level.startsWith(cat + " "))).length
+              ? new Set(ALL_WORDS.filter(w => w.level === cat || (w.level && w.level.startsWith(cat + " "))).map(w => w.en)).size
               : ALL_WORDS.filter(w => subLevels.includes(w.level)).length;
 
             const subBtn = document.createElement("button");
@@ -739,7 +740,14 @@
             subBtn.addEventListener("click", (e) => {
               e.stopPropagation();
               const filtered = isAll
-                ? ALL_WORDS.filter(w => w.level === cat || (w.level && w.level.startsWith(cat + " ")))
+                ? (() => {
+                    const seen = new Set();
+                    return ALL_WORDS.filter(w => w.level === cat || (w.level && w.level.startsWith(cat + " "))).filter(w => {
+                      if (seen.has(w.en)) return false;
+                      seen.add(w.en);
+                      return true;
+                    });
+                  })()
                 : ALL_WORDS.filter(w => subLevels.includes(w.level));
               selectWords(filtered);
               syncWordsToGoogleSheet(`${cat} ${item.label}`, filtered);

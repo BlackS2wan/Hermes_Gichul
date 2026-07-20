@@ -244,7 +244,7 @@
   {"en": "competitive", "pos": "형용사", "ko": "경쟁적인", "level": "26학년도 수능 22"},
   {"en": "involve", "pos": "동사", "ko": "수반하다", "level": "26학년도 수능 22"},
   {"en": "different", "pos": "형용사", "ko": "다른", "level": "26학년도 수능 22"},
-  {"en": "form", "pos": "명사", "ko": "형태", "level": "26학년도 수능 22"},
+  {"en": "form", "pos": "명사,동사", "ko": "형태,형성하다", "level": "26학년도 수능 22"},
   {"en": "behaviour", "pos": "명사", "ko": "행동", "level": "26학년도 수능 22"},
   {"en": "careful", "pos": "형용사", "ko": "신중한", "level": "26학년도 수능 22"},
   {"en": "require", "pos": "동사", "ko": "요구하다", "level": "26학년도 수능 22"},

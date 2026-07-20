@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0046)file:///C:/Users/user/Downloads/HERMES_23.html -->
+<!-- saved from url=(0046)file:///C:/Users/user/Downloads/HERMES_24.html -->
 <html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -129,21 +129,56 @@
   .back-btn {
     position: absolute;
     top: 20px;
-    right: 20px;
+    left: 20px;
     z-index: 30;
+    width: 32px;
+    height: 32px;
+    display: none;
+    align-items: center;
+    justify-content: center;
     background: rgba(255,255,255,0.08);
     color: rgba(255,255,255,0.85);
     border: 1px solid rgba(255,255,255,0.15);
-    border-radius: 20px;
-    padding: 8px 14px;
-    font-size: 13px;
+    border-radius: 50%;
+    padding: 0;
+    font-size: 16px;
     font-weight: 600;
+    line-height: 1;
     cursor: pointer;
     backdrop-filter: blur(6px);
     font-family: "A2ZExtraBold", -apple-system, "Malgun Gothic", sans-serif;
-    display: none;
   }
   .back-btn:hover { background: rgba(255,255,255,0.15); }
+
+  .mode-toggle {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 30;
+    display: none;
+    align-items: center;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 16px;
+    padding: 3px;
+    backdrop-filter: blur(6px);
+  }
+  .mode-btn {
+    padding: 4px 9px;
+    font-size: 10px;
+    font-weight: 600;
+    border-radius: 12px;
+    border: none;
+    background: transparent;
+    color: rgba(255,255,255,0.45);
+    cursor: pointer;
+    font-family: "A2ZExtraBold", -apple-system, "Malgun Gothic", sans-serif;
+  }
+  .mode-btn.active {
+    background: rgba(255,255,255,0.18);
+    color: #fff;
+  }
 
   .splash {
     position: absolute;
@@ -364,7 +399,11 @@
     <div id="appVersionBadge" style="position:fixed; bottom:6px; right:8px; font-size:11px; color:rgba(255,255,255,0.35); z-index:9999; pointer-events:none; font-family:sans-serif;">v1.3.1</div>
 <div id="app">
   <div class="phone">
-    <button class="back-btn" id="backBtn" style="display: none;">‹ 난이도 선택</button>
+    <button class="back-btn" id="backBtn" style="display: none;">‹</button>
+    <div class="mode-toggle" id="modeToggle" style="display: none;">
+      <button class="mode-btn active" id="modeInputBtn" type="button">INPUT</button>
+      <button class="mode-btn" id="modeOutputBtn" type="button">OUTPUT</button>
+    </div>
 
     <div class="splash" id="splash">
       <div class="splash-inner">
@@ -501,6 +540,10 @@
   const levelPagerEl = document.getElementById("levelPager");
   const pageDotsEl = document.getElementById("pageDots");
   const backBtn = document.getElementById("backBtn");
+  const modeToggleEl = document.getElementById("modeToggle");
+  const modeInputBtn = document.getElementById("modeInputBtn");
+  const modeOutputBtn = document.getElementById("modeOutputBtn");
+  let studyMode = "input"; // 기본값: 인풋 모드
   let lastSpoken = -1;
 
   function showToast(msg) {
@@ -878,6 +921,7 @@
     levelScreenEl.style.display = "flex";
     scroller.style.display = "none";
     backBtn.style.display = "none";
+    modeToggleEl.style.display = "none";
     window.speechSynthesis.cancel();
   }
 
@@ -919,7 +963,8 @@
     WORDS = shuffleWithGroups(filtered);
     levelScreenEl.style.display = "none";
     scroller.style.display = "block";
-    backBtn.style.display = "block";
+    backBtn.style.display = "flex";
+    modeToggleEl.style.display = "flex";
     mountWords();
   }
 
@@ -944,6 +989,9 @@
       <div class="divider" style="background:${color}"></div>
       <div class="meaning">${word.ko}</div>
     `;
+    if (studyMode === "input") {
+      card.querySelector(".meaning").classList.add("revealed");
+    }
     return card;
   }
 
@@ -990,10 +1038,27 @@
     speak(WORDS[newIndex]);
   }
 
+  function setMode(mode) {
+    if (studyMode === mode) return;
+    studyMode = mode;
+    modeInputBtn.classList.toggle("active", mode === "input");
+    modeOutputBtn.classList.toggle("active", mode === "output");
+    if (currentCardEl) {
+      const meaningEl = currentCardEl.querySelector(".meaning");
+      if (meaningEl) {
+        meaningEl.classList.toggle("revealed", mode === "input");
+      }
+    }
+  }
+
+  modeInputBtn.addEventListener("click", () => setMode("input"));
+  modeOutputBtn.addEventListener("click", () => setMode("output"));
+
   function toggleCurrentMeaning() {
+    if (studyMode !== "output") return; // 인풋 모드에서는 항상 뜻이 보이므로 탭으로 토글하지 않음
     const meaningEl = currentCardEl.querySelector(".meaning");
     meaningEl.classList.toggle("revealed");
-    speak(WORDS[currentIndex]);
+    // 한국어 뜻이 나올 때는 영어를 다시 읽지 않음
   }
 
   // 스와이프/탭 감지: 세로로 일정 거리 이상 움직이면 카드 한 장만 넘어가고,

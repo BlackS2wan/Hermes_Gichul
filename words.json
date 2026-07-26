@@ -60,6 +60,7 @@
 {"en": "civilization", "pos": "명사", "ko": "문명", "level": "26학년도 9월 24"},
 {"en": "politics", "pos": "명사", "ko": "정치", "level": "26학년도 9월 24"},
 {"en": "peace", "pos": "명사", "ko": "평화", "level": "26학년도 9월 24"},
+{"en": "lead", "pos": "명사,동사", "ko": "단서,이끌다", "level": "26학년도 9월 22"},
 
 {"en": "narrator", "pos": "명사", "ko": "서술자", "level": "26학년도 9월 23"},
 {"en": "biographer", "pos": "명사", "ko": "전기작가", "level": "26학년도 9월 23"},

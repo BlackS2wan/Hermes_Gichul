@@ -22,21 +22,19 @@
 {"en": "richness", "pos": "명사", "ko": "풍부함", "level": "26학년도 9월 41~42"},
 {"en": "media", "pos": "명사", "ko": "매체", "level": "26학년도 9월 41~42"},
 {"en": "convey", "pos": "동사", "ko": "전달하다", "level": "26학년도 9월 41~42"},
-
 {"en": "provide", "pos": "명사", "ko": "제공하다", "level": "26학년도 9월 41~42"}, 
 {"en": "immediate", "pos": "형용사", "ko": "즉각적인,인접한", "level": "26학년도 9월 41~42"},
 {"en": "potentially", "pos": "부사", "ko": "잠재적으로", "level": "26학년도 9월 41~42"},
 {"en": "only", "pos": "형용사,부사", "ko": "유일한, 오직~만", "level": "26학년도 9월 34"},
- {"en": "textual", "pos": "형용사", "ko": "텍스트의, 문자의", "level": "26학년도 9월 41~42"},
-
- {"en": "videoconferencing", "pos": "명사", "ko": "화상 회의", "level": "26학년도 9월 41~42"},
+{"en": "textual", "pos": "형용사", "ko": "문자의", "level": "26학년도 9월 41~42"},
+{"en": "videoconferencing", "pos": "명사", "ko": "화상회의", "level": "26학년도 9월 41~42"},
 {"en": "addition", "pos": "명사", "ko": "추가", "level": "26학년도 9월 41~42"},
-close to
-be considered ~
- {"en": "visual", "pos": "형용사", "ko": "시각적인", "level": "26학년도 9월 41~42"},
-{"en": "replicate", "pos": "동사", "ko": "복제하다, 재현하다", "level": "26학년도 9월 41~42"},
+{"en": "close to", "pos": "형용사", "ko": "~에 가까운", "level": "26학년도 9월 41~42"},
+{"en": "be considered", "pos": "동사", "ko": "~하다고 여겨지다", "level": "26학년도 9월 41~42"},
+{"en": "visual", "pos": "형용사", "ko": "시각적인", "level": "26학년도 9월 41~42"},
+{"en": "replicate", "pos": "동사", "ko": "복제하다", "level": "26학년도 9월 41~42"},
 {"en": "perceived", "pos": "형용사", "ko": "인지된", "level": "26학년도 9월 41~42"},
-{"en": "gold standard", "pos": "명사구", "ko": "표준, 기준", "level": "26학년도 9월 41~42"},
+{"en": "gold standard", "pos": "명사", "ko": "표준", "level": "26학년도 9월 41~42"},
 {"en": "face-to-face", "pos": "형용사", "ko": "대면의", "level": "26학년도 9월 41~42"},
 {"en": "in-person", "pos": "형용사", "ko": "직접 만나는", "level": "26학년도 9월 41~42"},
 

@@ -164,7 +164,7 @@
 {"en": "as if", "pos": "접속사", "ko": "마치 ~인 것처럼", "level": "26학년도 6월 32"},
 {"en": "blankness", "pos": "명사", "ko": "공백", "level": "26학년도 6월 32"},
 {"en": "mistake A for B", "pos": "동사", "ko": "A를 B로 착각하다", "level": "26학년도 6월 32"},
-{"en": "be told", "동사", "ko": "듣다", "level": "26학년도 6월 32"},
+{"en": "be told", "pos": "동사", "ko": "듣다", "level": "26학년도 6월 32"},
 {"en": "effect", "pos": "명사", "ko": "효과", "level": "26학년도 6월 32"},
 {"en": "appearance", "pos": "명사", "ko": "등장, 외모", "level": "26학년도 6월 32"},
 {"en": "account", "pos": "명사", "ko": "계좌, 설명", "level": "26학년도 6월 32"},

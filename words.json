@@ -38,14 +38,15 @@
 {"en": "unable to", "pos": "형용사구", "ko": "~할 수 없는", "level": "26학년도 6월 35"},
 {"en": "deafen", "pos": "동사", "ko": "귀머거리로 만들다, 청력을 잃게 하다", "level": "26학년도 6월 35"},
 
-associated with
+{"en": "associated with", "pos": "형용사", "ko": "~와 관련된", "level": "26학년도 6월 34"},
 {"en": "geography", "pos": "명사", "ko": "지리학", "level": "26학년도 6월 34"},
-  start from
+{"en": "start from", "pos": "동사", "ko": "~에서 시작되다", "level": "26학년도 수능 31"},
 {"en": "premise", "pos": "명사", "ko": "전제", "level": "26학년도 6월 34"},
-{"en": "matter", "pos": "동사", "ko": "중요하다", "level": "26학년도 6월 34"},
-{"en": "take place", "pos": "동사구", "ko": "일어나다, 발생하다", "level": "26학년도 6월 34"},
+{"en": "matter", "pos": "명사,동사", "ko": "문제, 중요하다", "level": "26학년도 6월 34"},
+{"en": "take place", "pos": "동사", "ko": "일어나다, 발생하다", "level": "26학년도 6월 34"},
 {"en": "surface", "pos": "명사", "ko": "표면", "level": "26학년도 6월 34"},
-{"en": "key", "pos": "형용사", "ko": "핵심적인", "level": "26학년도 6월 34"},
+{"en": "key", "pos": "명사", "ko": "핵심", "level": "26학년도 6월 34"},
+  
 question
   not simply A though B
   get to
@@ -89,23 +90,26 @@ road
 {"en": "socio-economic", "pos": "형용사", "ko": "사회경제적인", "level": "26학년도 6월 34"},
 {"en": "pattern", "pos": "명사", "ko": "패턴, 양상", "level": "26학년도 6월 34"},
 {"en": "migration", "pos": "명사", "ko": "이주", "level": "26학년도 6월 34"},
-happen
-  {"en": "consideration", "pos": "명사", "ko": "고려", "level": "26학년도 6월 34"},
+
+  
+{"en": "happen", "pos": "동사", "ko": "발생하다", "level": "26학년도 6월 34"},
+{"en": "consideration", "pos": "명사", "ko": "고려사항", "level": "26학년도 6월 34"},
 {"en": "political", "pos": "형용사", "ko": "정치적인", "level": "26학년도 6월 34"},
-{"en": "organization", "pos": "명사", "ko": "조직, 체계", "level": "26학년도 6월 34"},
+{"en": "organization", "pos": "명사", "ko": "조직", "level": "26학년도 6월 34"},
 {"en": "territory", "pos": "명사", "ko": "영토", "level": "26학년도 6월 34"},
 {"en": "consequence", "pos": "명사", "ko": "결과", "level": "26학년도 6월 34"},
 {"en": "discrimination", "pos": "명사", "ko": "차별", "level": "26학년도 6월 34"},
 {"en": "layout", "pos": "명사", "ko": "배치, 구조", "level": "26학년도 6월 34"},
-{"en": "physical environment", "pos": "명사구", "ko": "물리적 환경", "level": "26학년도 6월 34"},
-{"en": "cross-cultural", "pos": "형용사", "ko": "다문화 간의", "level": "26학년도 6월 34"},
-{"en": "conflict", "pos": "명사", "ko": "갈등", "level": "26학년도 6월 34"},
+{"en": "environment", "pos": "명사", "ko": "환경", "level": "26학년도 6월 34"},
+{"en": "physical", "pos": "형용사", "ko": "물리적인, 육체적인", "level": "26학년도 6월 34"},
+{"en": "cross-cultural", "pos": "형용사", "ko": "문화 간의", "level": "26학년도 6월 34"},
+{"en": "conflict", "pos": "명사,동사", "ko": "갈등, 상충하다", "level": "26학년도 6월 34"},
 {"en": "phenomenon", "pos": "명사", "ko": "현상", "level": "26학년도 6월 34"},
 {"en": "natural resource", "pos": "명사", "ko": "천연자원", "level": "26학년도 6월 34"},
 {"en": "exhaust", "pos": "동사", "ko": "고갈시키다", "level": "26학년도 6월 34"},
-{"en": "damage", "pos": "동사", "ko": "손상시키다", "level": "26학년도 6월 34"},
-  climate change
-{"en": "authority", "pos": "명사", "ko": "권한", "level": "26학년도 6월 34"},
+{"en": "damage", "pos": "명사,동사", "ko": "손상;시키다", "level": "26학년도 6월 34"},
+{"en": "climate change", "pos": "명사", "ko": "기후 변화", "level": "26학년도 6월 34"},
+{"en": "authority", "pos": "명사", "ko": "권위, 권한, 당국(기관)", "level": "26학년도 6월 34"},
 {"en": "make decision", "pos": "동사", "ko": "결정하다", "level": "26학년도 6월 34"},
 
 {"en": "narrow", "pos": "형용사,동사", "ko": "좁은, 좁히다", "level": "26학년도 6월 33"},
@@ -1052,7 +1056,7 @@ happen
 {"en": "save", "pos": "동사", "ko": "구하다, 절약하다", "level": "26학년도 9월 32"},
 {"en": "interpersonal", "pos": "형용사", "ko": "대인관계의", "level": "26학년도 9월 32"},
 {"en": "intergroup", "pos": "형용사", "ko": "집단 간의", "level": "26학년도 9월 32"},
-{"en": "conflict", "pos": "명사", "ko": "갈등", "level": "26학년도 9월 32"},
+{"en": "conflict", "pos": "명사,동사", "ko": "갈등, 상충하다", "level": "26학년도 9월 32"},
 {"en": "maintain", "pos": "동사", "ko": "주장하다, 유지하다", "level": "26학년도 9월 32"},
 {"en": "exhausting", "pos": "형용사", "ko": "지치게 하는", "level": "26학년도 9월 32"},
 {"en": "insensitivity", "pos": "명사", "ko": "무감각", "level": "26학년도 9월 32"},
@@ -1460,7 +1464,7 @@ happen
 {"en": "costume", "pos": "명사", "ko": "복장, 의상", "level": "26학년도 수능 41"},
 {"en": "modern", "pos": "형용사", "ko": "현대의", "level": "26학년도 수능 41"},
 {"en": "find", "pos": "동사", "ko": "발견하다, 생각하다", "level": "26학년도 수능 41"},
-{"en": "physically", "pos": "부사", "ko": "물리적으로", "level": "26학년도 수능 41"},
+{"en": "physically", "pos": "부사", "ko": "물리적으로, 육체적으로", "level": "26학년도 수능 41"},
 {"en": "intellectually", "pos": "부사", "ko": "지적으로", "level": "26학년도 수능 41"},
 {"en": "lifeless", "pos": "형용사", "ko": "무기력한", "level": "26학년도 수능 41"},
 {"en": "fortunately", "pos": "부사", "ko": "다행히도", "level": "26학년도 수능 41"},
@@ -2111,7 +2115,7 @@ happen
 {"en": "accommodation", "pos": "명사", "ko": "숙박시설", "level": "26학년도 수능 24"},
 {"en": "retail", "pos": "명사", "ko": "소매", "level": "26학년도 수능 24"},
 {"en": "incentive", "pos": "명사", "ko": "동기부여, 보상", "level": "26학년도 수능 24"},
-{"en": "authority", "pos": "명사", "ko": "권위, 당국(기관)", "level": "26학년도 수능 24"},
+{"en": "authority", "pos": "명사", "ko": "권위, 권한, 당국(기관)", "level": "26학년도 수능 24"},
 {"en": "cultural", "pos": "형용사", "ko": "문화의", "level": "26학년도 수능 24"},
 {"en": "develop A into B", "pos": "동사", "ko": "A를 B로 발전시키다", "level": "26학년도 수능 24"},
 {"en": "celebration", "pos": "명사", "ko": "기념, 축하", "level": "26학년도 수능 24"},

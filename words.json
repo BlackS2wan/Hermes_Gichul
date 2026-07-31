@@ -46,16 +46,13 @@
 {"en": "take place", "pos": "동사", "ko": "일어나다, 발생하다", "level": "26학년도 6월 34"},
 {"en": "surface", "pos": "명사", "ko": "표면", "level": "26학년도 6월 34"},
 {"en": "key", "pos": "명사", "ko": "핵심", "level": "26학년도 6월 34"},
-  
-question
-  not simply A though B
-  get to
-
+{"en": "question", "pos": "명사,동사", "ko": "질문, 의문을 제기하다", "level": "26학년도 6월 34"},
+{"en": "not simply A though B", "pos": "접속사", "ko": "A뿐만 아니라 B도", "level": "26학년도 6월 34"},
+{"en": "get to", "pos": "동사", "ko": "~에 도착하다", "level": "26학년도 6월 34"},
 {"en": "spatial", "pos": "형용사", "ko": "공간적인", "level": "26학년도 6월 34"},
 {"en": "arrangement", "pos": "명사", "ko": "배열, 합의", "level": "26학년도 6월 34"},
 {"en": "variation", "pos": "명사", "ko": "변이, 변화", "level": "26학년도 6월 34"},
 {"en": "interconnection", "pos": "명사", "ko": "상호연결", "level": "26학년도 6월 34"},
-
 {"en": "seriously", "pos": "부사", "ko": "진지하게", "level": "26학년도 6월 34"},
 {"en": "engage in", "pos": "동사", "ko": "~에 참여하다", "level": "26학년도 6월 34"},
 {"en": "even", "pos": "부사", "ko": "훨씬, 심지어~조차", "level": "26학년도 6월 34"},
@@ -63,38 +60,31 @@ question
 {"en": "require", "pos": "동사", "ko": "요구하다", "level": "26학년도 6월 34"},
 {"en": "appreciation", "pos": "명사", "ko": "이해, 감상, 감사", "level": "26학년도 6월 34"},
 {"en": "circumstance", "pos": "명사", "ko": "상황", "level": "26학년도 6월 34"},
-
-  find
-  {"en": "and the like", "pos": "부사구", "ko": "그리고 그와 같은 것들", "level": "26학년도 6월 34"},
-move up
-  {"en": "scale", "pos": "명사", "ko": "규모, 척도", "level": "26학년도 6월 34"},
+{"en": "find", "pos": "동사", "ko": "발견하다, 생각하다", "level": "26학년도 6월 34"},
+{"en": "and the like", "pos": "부사", "ko": "등등", "level": "26학년도 6월 34"},
+{"en": "scale", "pos": "명사", "ko": "규모", "level": "26학년도 6월 34"},
 {"en": "awareness", "pos": "명사", "ko": "인식", "level": "26학년도 6월 34"},
-
-  {"en": "reasoned", "pos": "형용사", "ko": "논리적인, 이치에 맞는", "level": "26학년도 6월 34"},
+{"en": "reasoned", "pos": "형용사", "ko": "합리적인", "level": "26학년도 6월 34"},
 {"en": "policy", "pos": "명사", "ko": "정책", "level": "26학년도 6월 34"},
 {"en": "judgment", "pos": "명사", "ko": "판단", "level": "26학년도 6월 34"},
-{"en": "make sense of", "pos": "동사구", "ko": "~을 이해하다", "level": "26학년도 6월 34"},
-event
-  {"en": "grasp", "pos": "동사", "ko": "파악하다, 이해하다", "level": "26학년도 6월 34"},
+{"en": "make sense of", "pos": "동사", "ko": "~을 이해하다", "level": "26학년도 6월 34"},
+{"en": "event", "pos": "명사", "ko": "사건, 행사", "level": "26학년도 6월 34"},
+{"en": "grasp", "pos": "동사", "ko": "이해하다", "level": "26학년도 6월 34"},
 {"en": "basic", "pos": "형용사", "ko": "기본적인", "level": "26학년도 6월 34"},
-{"en": "force", "pos": "명사", "ko": "힘, 세력", "level": "26학년도 6월 34"},
-{"en": "shape", "pos": "동사", "ko": "형성하다", "level": "26학년도 6월 34"},
-life
-  {"en": "planet", "pos": "명사", "ko": "행성, 지구", "level": "26학년도 6월 34"},
-{"en": "locate", "pos": "동사", "ko": "위치시키다", "level": "26학년도 6월 34"},
-store
-  {"en": "public service", "pos": "명사구", "ko": "공공 서비스", "level": "26학년도 6월 34"},
-{"en": "take into consideration", "pos": "동사구", "ko": "고려하다", "level": "26학년도 6월 34"},
-{"en": "population", "pos": "명사", "ko": "인구", "level": "26학년도 6월 34"},
-{"en": "distribution", "pos": "명사", "ko": "분포", "level": "26학년도 6월 34"},
+{"en": "force", "pos": "명사,동사", "ko": "힘, 강요하다", "level": "26학년도 6월 34"},
+{"en": "shape", "pos": "동사", "ko": "모양, 형성하다", "level": "26학년도 6월 34"},
+{"en": "life", "pos": "명사", "ko": "삶, 생활, 생명체", "level": "26학년도 6월 34"},
+{"en": "planet", "pos": "명사", "ko": "행성", "level": "26학년도 6월 34"},
+{"en": "locate", "pos": "동사", "ko": "위치시키다, 위치를 찾다", "level": "26학년도 6월 34"},
+{"en": "store", "pos": "명사,동사", "ko": "상점, 저장하다", "level": "26학년도 6월 34"},  
+{"en": "public", "pos": "명사구", "ko": "대중;의, 공공의, 공적인", "level": "26학년도 6월 34"},
+{"en": "take into consideration", "pos": "동사", "ko": "고려하다", "level": "26학년도 6월 34"},
+{"en": "population", "pos": "명사", "ko": "개체 수", "level": "26학년도 6월 34"},
+{"en": "distribution", "pos": "명사", "ko": "분배, 분포, 유통", "level": "26학년도 6월 34"},
 {"en": "location", "pos": "명사", "ko": "위치", "level": "26학년도 6월 34"},
-road
-  {"en": "utility", "pos": "명사", "ko": "공익 설비, 유틸리티", "level": "26학년도 6월 34"},
+{"en": "utility", "pos": "명사", "ko": "수도/전기/가스 등", "level": "26학년도 6월 34"},
 {"en": "socio-economic", "pos": "형용사", "ko": "사회경제적인", "level": "26학년도 6월 34"},
-{"en": "pattern", "pos": "명사", "ko": "패턴, 양상", "level": "26학년도 6월 34"},
 {"en": "migration", "pos": "명사", "ko": "이주", "level": "26학년도 6월 34"},
-
-  
 {"en": "happen", "pos": "동사", "ko": "발생하다", "level": "26학년도 6월 34"},
 {"en": "consideration", "pos": "명사", "ko": "고려사항", "level": "26학년도 6월 34"},
 {"en": "political", "pos": "형용사", "ko": "정치적인", "level": "26학년도 6월 34"},
@@ -284,7 +274,7 @@ road
 {"en": "gain", "pos": "명사,동사", "ko": "이익, 얻다", "level": "26학년도 6월 30"},
 {"en": "audience", "pos": "명사", "ko": "청중", "level": "26학년도 6월 30"},
 {"en": "involve", "pos": "동사", "ko": "포함하다, 수반하다", "level": "26학년도 6월 30"},
-{"en": "not just A but (also) B", "pos": "부사", "ko": "A뿐만 아니라 B도", "level": "26학년도 6월 30"},
+{"en": "not just A but (also) B", "pos": "접속사", "ko": "A뿐만 아니라 B도", "level": "26학년도 6월 30"},
 {"en": "find", "pos": "동사", "ko": "발견하다, 생각하다", "level": "26학년도 6월 30"},
 {"en": "ensure", "pos": "동사", "ko": "보장하다", "level": "26학년도 6월 30"},
 {"en": "resonate with", "pos": "동사구", "ko": "~와 공명하다", "level": "26학년도 6월 30"},
@@ -1609,7 +1599,7 @@ road
 {"en": "internal", "pos": "형용사", "ko": "내적인", "level": "26학년도 수능 38"},
 {"en": "narrative", "pos": "명사", "ko": "이야기", "level": "26학년도 수능 38"},
 {"en": "form", "pos": "명사,동사", "ko": "형태, 형성하다", "level": "26학년도 수능 38"},
-{"en": "not only A but also B", "pos": "접속사구", "ko": "A뿐만 아니라 B도", "level": "26학년도 수능 38"},
+{"en": "not only A but also B", "pos": "접속사", "ko": "A뿐만 아니라 B도", "level": "26학년도 수능 38"},
 {"en": "shape", "pos": "명사,동사", "ko": "모양, 형성하다", "level": "26학년도 수능 38"},
 {"en": "belief", "pos": "명사", "ko": "믿음, 신념", "level": "26학년도 수능 38"},
 {"en": "opinion", "pos": "명사", "ko": "의견", "level": "26학년도 수능 38"},

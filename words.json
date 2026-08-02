@@ -30,7 +30,7 @@
   {"en": "one's own", "pos": "형용사구", "ko": "~만의", "level": "25학년도 수능 22"},
   {"en": "need", "pos": "명사", "ko": "요구", "level": "25학년도 수능 22"},
   {"en": "as well as", "pos": "접속사구", "ko": "~뿐만 아니라", "level": "25학년도 수능 22"},
-  {"en": "i.e", "pos": "부사구", "ko": "예를 들어", "level": "25학년도 수능 22"},
+  {"en": "i.e", "pos": "부사구", "ko": "즉, 다시 말해", "level": "25학년도 수능 22"},
   {"en": "cooperate", "pos": "동사", "ko": "협력하다", "level": "25학년도 수능 22"},
   {"en": "conflict", "pos": "명사", "ko": "갈등", "level": "25학년도 수능 22"},
   {"en": "situation", "pos": "명사", "ko": "상황", "level": "25학년도 수능 22"},
@@ -53,7 +53,7 @@
   {"en": "constructive", "pos": "형용사", "ko": "건설적인", "level": "25학년도 수능 22"},
   {"en": "resolution", "pos": "명사", "ko": "해결", "level": "25학년도 수능 22"},
   {"en": "improve", "pos": "동사", "ko": "향상시키다", "level": "25학년도 수능 22"},
-  {"en": "functioning", "pos": "명사", "ko": "기능", "level": "25학년도 수능 22"},
+  {"en": "functioning", "pos": "명사", "ko": "기능, 작동", "level": "25학년도 수능 22"},
   
   {"en": "position", "pos": "명사", "ko": "지위", "level": "25학년도 수능 21"},
   {"en": "architect", "pos": "명사", "ko": "건축가", "level": "25학년도 수능 21"},

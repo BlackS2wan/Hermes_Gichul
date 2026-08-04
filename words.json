@@ -43,7 +43,7 @@
 {"en": "health", "pos": "명사", "ko": "건강", "level": "25학년도 수능 32"},
 {"en": "survival", "pos": "명사", "ko": "생존", "level": "25학년도 수능 32"},
 {"en": "just as SV", "pos": "접속사구", "ko": "S가 V하는 것처럼", "level": "25학년도 수능 32"},
-{"en": "reach", "pos": "동사", "ko": "도달하다", "level": "25학년도 수능 32"},
+{"en": "reach for", "pos": "동사구", "ko": "~에 손을 뻗다", "level": "25학년도 수능 32"},
 {"en": "for the sake of", "pos": "전치사구", "ko": "~을 위해서", "level": "25학년도 수능 32"},
 {"en": "convenience", "pos": "명사", "ko": "편리함", "level": "25학년도 수능 32"},
 {"en": "burger", "pos": "명사", "ko": "버거", "level": "25학년도 수능 32"},

@@ -1,69 +1,69 @@
 [
-{"en": "difficulty", "pos": "명사", "ko": "어려움", "level": "21학년도 수능 23"}
-{"en": "arise", "pos": "동사", "ko": "발생하다", "level": "21학년도 수능 23"}
-{"en": "think of A as B", "pos": "동사구", "ko": "A를 B라고 생각하다", "level": "21학년도 수능 23"}
-{"en": "people", "pos": "명사", "ko": "사람들", "level": "21학년도 수능 23"}
-{"en": "machine", "pos": "명사", "ko": "기계", "level": "21학년도 수능 23"}
-{"en": "collaborative", "pos": "형용사", "ko": "협력적인", "level": "21학년도 수능 23"}
-{"en": "system", "pos": "명사", "ko": "체계", "level": "21학년도 수능 23"}
-{"en": "assign", "pos": "동사", "ko": "할당하다", "level": "21학년도 수능 23"}
-{"en": "task", "pos": "명사", "ko": "과업", "level": "21학년도 수능 23"}
-{"en": "automate", "pos": "동사", "ko": "자동화하다", "level": "21학년도 수능 23"}
-{"en": "leave A to B", "pos": "동사구", "ko": "A를 B에게 남기다", "level": "21학년도 수능 23"}
-{"en": "the rest", "pos": "명사", "ko": "나머지", "level": "21학년도 수능 23"}
-{"en": "end up Ving", "pos": "동사구", "ko": "결국 V하게 되다", "level": "21학년도 수능 23"}
-{"en": "require ~ to V", "pos": "동사구", "ko": "~가 V하도록 요구하다", "level": "21학년도 수능 23"}
-{"en": "behave", "pos": "동사", "ko": "행동하다", "level": "21학년도 수능 23"}
-{"en": "N-like", "pos": "형용사", "ko": "N와 같은", "level": "21학년도 수능 23"}
-{"en": "in fashion", "pos": "부사구", "ko": "~한 방식으로", "level": "21학년도 수능 23"}
-{"en": "differ from", "pos": "동사구", "ko": "~와 다르다", "level": "21학년도 수능 23"}
-{"en": "in ways", "pos": "부사구", "ko": "~한 방식으로", "level": "21학년도 수능 23"}
-{"en": "human", "pos": "명사", "ko": "인간", "level": "21학년도 수능 23"}
-{"en": "capability", "pos": "명사", "ko": "능력", "level": "21학년도 수능 23"}
-{"en": "expect ~ to V", "pos": "동사구", "ko": "~가 V한다고 예상하다", "level": "21학년도 수능 23"}
-{"en": "monitor", "pos": "동사", "ko": "감시하다", "level": "21학년도 수능 23"}
-{"en": "mean", "pos": "동사", "ko": "의미하다", "level": "21학년도 수능 23"}
-{"en": "keep alert", "pos": "동사구", "ko": "경계 태세를 유지하다", "level": "21학년도 수능 23"}
-{"en": "period", "pos": "명사", "ko": "기간", "level": "21학년도 수능 23"}
-{"en": "be bad at", "pos": "동사구", "ko": "~에 서투르다", "level": "21학년도 수능 23"}
-{"en": "repeated", "pos": "형용사", "ko": "반복적인", "level": "21학년도 수능 23"}
-{"en": "operation", "pos": "명사", "ko": "작업", "level": "21학년도 수능 23"}
-{"en": "extreme", "pos": "형용사", "ko": "극단적인", "level": "21학년도 수능 23"}
-{"en": "precision", "pos": "명사", "ko": "정밀함", "level": "21학년도 수능 23"}
-{"en": "accuracy", "pos": "명사", "ko": "정확성", "level": "21학년도 수능 23"}
-{"en": "be good at", "pos": "동사구", "ko": "~에 능숙하다", "level": "21학년도 수능 23"}
-{"en": "divide up", "pos": "동사구", "ko": "나누다", "level": "21학년도 수능 23"}
-{"en": "component", "pos": "명사", "ko": "구성 요소", "level": "21학년도 수능 23"}
-{"en": "fail to V", "pos": "동사구", "ko": "V하지 못하다", "level": "21학년도 수능 23"}
-{"en": "take advantage of", "pos": "동사구", "ko": "~을 활용하다", "level": "21학년도 수능 23"}
-{"en": "strength", "pos": "명사", "ko": "강점", "level": "21학년도 수능 23"}
-{"en": "instead", "pos": "부사", "ko": "대신에", "level": "21학년도 수능 23"}
-{"en": "rely upon", "pos": "동사구", "ko": "~에 의존하다", "level": "21학년도 수능 23"}
-{"en": "area", "pos": "명사", "ko": "영역", "level": "21학년도 수능 23"}
-{"en": "genetically", "pos": "부사", "ko": "유전적으로", "level": "21학년도 수능 23"}
-{"en": "biologically", "pos": "부사", "ko": "생물학적으로", "level": "21학년도 수능 23"}
-{"en": "unsuited", "pos": "형용사", "ko": "적합하지 않은", "level": "21학년도 수능 23"}
-{"en": "yet", "pos": "부사", "ko": "그러나", "level": "21학년도 수능 23"}
-{"en": "fail", "pos": "동사", "ko": "실패하다", "level": "21학년도 수능 23"}
-{"en": "blame", "pos": "동사", "ko": "비난하다", "level": "21학년도 수능 23"}
-{"en": "overcome", "pos": "동사", "ko": "극복하다", "level": "21학년도 수능 23"}
-{"en": "weakness", "pos": "명사", "ko": "약점", "level": "21학년도 수능 23"}
-{"en": "avoid", "pos": "동사", "ko": "피하다", "level": "21학년도 수능 23"}
-{"en": "failure", "pos": "명사", "ko": "실패", "level": "21학년도 수능 23"}
-{"en": "benefit", "pos": "명사", "ko": "이점", "level": "21학년도 수능 23"}
-{"en": "allow ~ to V", "pos": "동사구", "ko": "~가 V하는 것을 허용하다", "level": "21학년도 수능 23"}
-{"en": "work", "pos": "동사", "ko": "작업하다", "level": "21학년도 수능 23"}
-{"en": "issue", "pos": "명사", "ko": "문제", "level": "21학년도 수능 23"}
-{"en": "allocate", "pos": "동사", "ko": "할당하다", "level": "21학년도 수능 23"}
-{"en": "unfit", "pos": "형용사", "ko": "부적합한", "level": "21학년도 수능 23"}
-{"en": "automated", "pos": "형용사", "ko": "자동화된", "level": "21학년도 수능 23"}
-{"en": "reason", "pos": "명사", "ko": "이유", "level": "21학년도 수능 23"}
-{"en": "continue to V", "pos": "동사구", "ko": "계속해서 V하다", "level": "21학년도 수능 23"}
-{"en": "pursue", "pos": "동사", "ko": "추구하다", "level": "21학년도 수능 23"}
-{"en": "automation", "pos": "명사", "ko": "자동화", "level": "21학년도 수능 23"}
-{"en": "influence of A on B", "pos": "명사구", "ko": "B에 미치는 A의 영향", "level": "21학년도 수능 23"}
-{"en": "action", "pos": "명사", "ko": "행동", "level": "21학년도 수능 23"}
-{"en": "performance", "pos": "명사", "ko": "성능", "level": "21학년도 수능 23"}
+{"en": "difficulty", "pos": "명사", "ko": "어려움", "level": "21학년도 수능 23"},
+{"en": "arise", "pos": "동사", "ko": "발생하다", "level": "21학년도 수능 23"},
+{"en": "think of A as B", "pos": "동사구", "ko": "A를 B라고 생각하다", "level": "21학년도 수능 23"},
+{"en": "people", "pos": "명사", "ko": "사람들", "level": "21학년도 수능 23"},
+{"en": "machine", "pos": "명사", "ko": "기계", "level": "21학년도 수능 23"},
+{"en": "collaborative", "pos": "형용사", "ko": "협력적인", "level": "21학년도 수능 23"},
+{"en": "system", "pos": "명사", "ko": "체계", "level": "21학년도 수능 23"},
+{"en": "assign", "pos": "동사", "ko": "할당하다", "level": "21학년도 수능 23"},
+{"en": "task", "pos": "명사", "ko": "과업", "level": "21학년도 수능 23"},
+{"en": "automate", "pos": "동사", "ko": "자동화하다", "level": "21학년도 수능 23"},
+{"en": "leave A to B", "pos": "동사구", "ko": "A를 B에게 남기다", "level": "21학년도 수능 23"},
+{"en": "the rest", "pos": "명사", "ko": "나머지", "level": "21학년도 수능 23"},
+{"en": "end up Ving", "pos": "동사구", "ko": "결국 V하게 되다", "level": "21학년도 수능 23"},
+{"en": "require ~ to V", "pos": "동사구", "ko": "~가 V하도록 요구하다", "level": "21학년도 수능 23"},
+{"en": "behave", "pos": "동사", "ko": "행동하다", "level": "21학년도 수능 23"},
+{"en": "N-like", "pos": "형용사", "ko": "N와 같은", "level": "21학년도 수능 23"},
+{"en": "in fashion", "pos": "부사구", "ko": "~한 방식으로", "level": "21학년도 수능 23"},
+{"en": "differ from", "pos": "동사구", "ko": "~와 다르다", "level": "21학년도 수능 23"},
+{"en": "in ways", "pos": "부사구", "ko": "~한 방식으로", "level": "21학년도 수능 23"},
+{"en": "human", "pos": "명사", "ko": "인간", "level": "21학년도 수능 23"},
+{"en": "capability", "pos": "명사", "ko": "능력", "level": "21학년도 수능 23"},
+{"en": "expect ~ to V", "pos": "동사구", "ko": "~가 V한다고 예상하다", "level": "21학년도 수능 23"},
+{"en": "monitor", "pos": "동사", "ko": "감시하다", "level": "21학년도 수능 23"},
+{"en": "mean", "pos": "동사", "ko": "의미하다", "level": "21학년도 수능 23"},
+{"en": "keep alert", "pos": "동사구", "ko": "경계 태세를 유지하다", "level": "21학년도 수능 23"},
+{"en": "period", "pos": "명사", "ko": "기간", "level": "21학년도 수능 23"},
+{"en": "be bad at", "pos": "동사구", "ko": "~에 서투르다", "level": "21학년도 수능 23"},
+{"en": "repeated", "pos": "형용사", "ko": "반복적인", "level": "21학년도 수능 23"},
+{"en": "operation", "pos": "명사", "ko": "작업", "level": "21학년도 수능 23"},
+{"en": "extreme", "pos": "형용사", "ko": "극단적인", "level": "21학년도 수능 23"},
+{"en": "precision", "pos": "명사", "ko": "정밀함", "level": "21학년도 수능 23"},
+{"en": "accuracy", "pos": "명사", "ko": "정확성", "level": "21학년도 수능 23"},
+{"en": "be good at", "pos": "동사구", "ko": "~에 능숙하다", "level": "21학년도 수능 23"},
+{"en": "divide up", "pos": "동사구", "ko": "나누다", "level": "21학년도 수능 23"},
+{"en": "component", "pos": "명사", "ko": "구성 요소", "level": "21학년도 수능 23"},
+{"en": "fail to V", "pos": "동사구", "ko": "V하지 못하다", "level": "21학년도 수능 23"},
+{"en": "take advantage of", "pos": "동사구", "ko": "~을 활용하다", "level": "21학년도 수능 23"},
+{"en": "strength", "pos": "명사", "ko": "강점", "level": "21학년도 수능 23"},
+{"en": "instead", "pos": "부사", "ko": "대신에", "level": "21학년도 수능 23"},
+{"en": "rely upon", "pos": "동사구", "ko": "~에 의존하다", "level": "21학년도 수능 23"},
+{"en": "area", "pos": "명사", "ko": "영역", "level": "21학년도 수능 23"},
+{"en": "genetically", "pos": "부사", "ko": "유전적으로", "level": "21학년도 수능 23"},
+{"en": "biologically", "pos": "부사", "ko": "생물학적으로", "level": "21학년도 수능 23"},
+{"en": "unsuited", "pos": "형용사", "ko": "적합하지 않은", "level": "21학년도 수능 23"},
+{"en": "yet", "pos": "부사", "ko": "그러나", "level": "21학년도 수능 23"},
+{"en": "fail", "pos": "동사", "ko": "실패하다", "level": "21학년도 수능 23"},
+{"en": "blame", "pos": "동사", "ko": "비난하다", "level": "21학년도 수능 23"},
+{"en": "overcome", "pos": "동사", "ko": "극복하다", "level": "21학년도 수능 23"},
+{"en": "weakness", "pos": "명사", "ko": "약점", "level": "21학년도 수능 23"},
+{"en": "avoid", "pos": "동사", "ko": "피하다", "level": "21학년도 수능 23"},
+{"en": "failure", "pos": "명사", "ko": "실패", "level": "21학년도 수능 23"},
+{"en": "benefit", "pos": "명사", "ko": "이점", "level": "21학년도 수능 23"},
+{"en": "allow ~ to V", "pos": "동사구", "ko": "~가 V하는 것을 허용하다", "level": "21학년도 수능 23"},
+{"en": "work", "pos": "동사", "ko": "작업하다", "level": "21학년도 수능 23"},
+{"en": "issue", "pos": "명사", "ko": "문제", "level": "21학년도 수능 23"},
+{"en": "allocate", "pos": "동사", "ko": "할당하다", "level": "21학년도 수능 23"},
+{"en": "unfit", "pos": "형용사", "ko": "부적합한", "level": "21학년도 수능 23"},
+{"en": "automated", "pos": "형용사", "ko": "자동화된", "level": "21학년도 수능 23"},
+{"en": "reason", "pos": "명사", "ko": "이유", "level": "21학년도 수능 23"},
+{"en": "continue to V", "pos": "동사구", "ko": "계속해서 V하다", "level": "21학년도 수능 23"},
+{"en": "pursue", "pos": "동사", "ko": "추구하다", "level": "21학년도 수능 23"},
+{"en": "automation", "pos": "명사", "ko": "자동화", "level": "21학년도 수능 23"},
+{"en": "influence of A on B", "pos": "명사구", "ko": "B에 미치는 A의 영향", "level": "21학년도 수능 23"},
+{"en": "action", "pos": "명사", "ko": "행동", "level": "21학년도 수능 23"},
+{"en": "performance", "pos": "명사", "ko": "성능", "level": "21학년도 수능 23"},
   
 {"en": "prior to", "pos": "전치사", "ko": "~이전에", "level": "21학년도 수능 22"},
 {"en": "file", "pos": "명사", "ko": "파일", "level": "21학년도 수능 22"},

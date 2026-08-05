@@ -1,4 +1,85 @@
 [
+{"en": "there is", "pos": "구문", "ko": "~가 있다", "level": "21학년도 수능 21"}
+{"en": "proverb", "pos": "명사", "ko": "속담", "level": "21학년도 수능 21"}
+{"en": "say", "pos": "동사", "ko": "~라고 말하다", "level": "21학년도 수능 21"}
+{"en": "till SV", "pos": "접속사", "ko": "S가 V하기 전까지", "level": "21학년도 수능 21"}
+{"en": "lion", "pos": "명사", "ko": "사자", "level": "21학년도 수능 21"}
+{"en": "have", "pos": "동사", "ko": "가지다", "level": "21학년도 수능 21"}
+{"en": "historian", "pos": "명사", "ko": "역사가", "level": "21학년도 수능 21"}
+{"en": "tale", "pos": "명사", "ko": "이야기", "level": "21학년도 수능 21"}
+{"en": "hunting", "pos": "명사", "ko": "사냥", "level": "21학년도 수능 21"}
+{"en": "always", "pos": "부사", "ko": "항상", "level": "21학년도 수능 21"}
+{"en": "glorify", "pos": "동사", "ko": "미화하다", "level": "21학년도 수능 21"}
+{"en": "hunter", "pos": "명사", "ko": "사냥꾼", "level": "21학년도 수능 21"}
+{"en": "be about", "pos": "구문", "ko": "~에 대한 것이다", "level": "21학년도 수능 21"}
+{"en": "power", "pos": "명사", "ko": "힘, 권력", "level": "21학년도 수능 21"}
+{"en": "control", "pos": "명사", "ko": "통제", "level": "21학년도 수능 21"}
+{"en": "law making", "pos": "명사", "ko": "법 제정", "level": "21학년도 수능 21"}
+{"en": "environmental", "pos": "형용사", "ko": "환경의", "level": "21학년도 수능 21"}
+{"en": "journalist", "pos": "명사", "ko": "언론인", "level": "21학년도 수능 21"}
+{"en": "have to V", "pos": "구문", "ko": "V해야 한다", "level": "21학년도 수능 21"}
+{"en": "play the role", "pos": "구문", "ko": "역할을 수행하다", "level": "21학년도 수능 21"}
+{"en": "put across", "pos": "동사", "ko": "전달하다", "level": "21학년도 수능 21"}
+{"en": "the point of view", "pos": "명사", "ko": "관점", "level": "21학년도 수능 21"}
+{"en": "environment", "pos": "명사", "ko": "환경", "level": "21학년도 수능 21"}
+{"en": "people", "pos": "명사", "ko": "사람들", "level": "21학년도 수능 21"}
+{"en": "make the law", "pos": "구문", "ko": "법을 제정하다", "level": "21학년도 수능 21"}
+{"en": "voice", "pos": "명사", "ko": "목소리", "level": "21학년도 수능 21"}
+{"en": "wild", "pos": "형용사", "ko": "야생의", "level": "21학년도 수능 21"}
+{"en": "present", "pos": "형용사", "ko": "현재의", "level": "21학년도 수능 21"}
+{"en": "rate", "pos": "명사", "ko": "속도", "level": "21학년도 수능 21"}
+{"en": "human", "pos": "명사", "ko": "인류", "level": "21학년도 수능 21"}
+{"en": "consumption", "pos": "명사", "ko": "소비", "level": "21학년도 수능 21"}
+{"en": "completely", "pos": "부사", "ko": "완전히", "level": "21학년도 수능 21"}
+{"en": "unsustainable", "pos": "형용사", "ko": "지속불가능한", "level": "21학년도 수능 21"}
+{"en": "forest", "pos": "명사", "ko": "숲", "level": "21학년도 수능 21"}
+{"en": "wetland", "pos": "명사", "ko": "습지", "level": "21학년도 수능 21"}
+{"en": "wasteland", "pos": "명사", "ko": "황무지", "level": "21학년도 수능 21"}
+{"en": "coastal", "pos": "형용사", "ko": "해안의", "level": "21학년도 수능 21"}
+{"en": "zone", "pos": "명사", "ko": "구역", "level": "21학년도 수능 21"}
+{"en": "eco-sensitive", "pos": "형용사", "ko": "환경에 민감한", "level": "21학년도 수능 21"}
+{"en": "sensitive", "pos": "형용사", "ko": "민감한", "level": "21학년도 수능 21"}
+{"en": "be seen as", "pos": "구문", "ko": "~로 여겨지다", "level": "21학년도 수능 21"}
+{"en": "disposable", "pos": "형용사", "ko": "일회용의", "level": "21학년도 수능 21"}
+{"en": "accelerating", "pos": "형용사", "ko": "가속화되는", "level": "21학년도 수능 21"}
+{"en": "demand", "pos": "명사", "ko": "수요", "level": "21학년도 수능 21"}
+{"en": "human population", "pos": "명사", "ko": "인구 수", "level": "21학년도 수능 21"}
+{"en": "population", "pos": "명사", "ko": "개체 수", "level": "21학년도 수능 21"}
+{"en": "but", "pos": "접속사", "ko": "그러나", "level": "21학년도 수능 21"}
+{"en": "ask for", "pos": "동사", "ko": "요청하다", "level": "21학년도 수능 21"}
+{"en": "change", "pos": "동사", "ko": "변화, ~를 바꾸다", "level": "21학년도 수능 21"}
+{"en": "whether it be A or B", "pos": "구문", "ko": "A이든 B이든", "level": "21학년도 수능 21"}
+{"en": "cut down on", "pos": "동사", "ko": "줄이다", "level": "21학년도 수능 21"}
+{"en": "alter", "pos": "동사", "ko": "바꾸다", "level": "21학년도 수능 21"}
+{"en": "lifestyle", "pos": "명사", "ko": "생활방식", "level": "21학년도 수능 21"}
+{"en": "decrease", "pos": "동사", "ko": "감소시키다", "level": "21학년도 수능 21"}
+{"en": "growth", "pos": "명사", "ko": "성장", "level": "21학년도 수능 21"}
+{"en": "violation", "pos": "명사", "ko": "침해", "level": "21학년도 수능 21"}
+{"en": "human right", "pos": "명사", "ko": "인권", "level": "21학년도 수능 21"}
+{"en": "at some point", "pos": "부사", "ko": "어느 지점에서", "level": "21학년도 수능 21"}
+{"en": "become", "pos": "동사", "ko": "~가 되다", "level": "21학년도 수능 21"}
+{"en": "wrong", "pos": "명사", "ko": "잘못된 것", "level": "21학년도 수능 21"}
+{"en": "it's time SV", "pos": "구문", "ko": "S가 V할 시간이다", "level": "21학년도 수능 21"}
+{"en": "thinking", "pos": "명사", "ko": "생각", "level": "21학년도 수능 21"}
+{"en": "so that", "pos": "접속사", "ko": "그래서", "level": "21학년도 수능 21"}
+{"en": "difference between A and B", "pos": "명사", "ko": "A와 B의 차이", "level": "21학년도 수능 21"}
+{"en": "rest", "pos": "명사", "ko": "나머지", "level": "21학년도 수능 21"}
+{"en": "uncover", "pos": "동사", "ko": "밝히다", "level": "21학년도 수능 21"}
+{"en": "history", "pos": "명사", "ko": "역사", "level": "21학년도 수능 21"}
+{"en": "species", "pos": "명사", "ko": "종", "level": "21학년도 수능 21"}
+{"en": "biological", "pos": "형용사", "ko": "생물학적인", "level": "21학년도 수능 21"}
+{"en": "evolution", "pos": "명사", "ko": "진화", "level": "21학년도 수능 21"}
+{"en": "urge", "pos": "동사", "ko": "촉구하다", "level": "21학년도 수능 21"}
+{"en": "shift to", "pos": "동사", "ko": "~로의 변화", "level": "21학년도 수능 21"}
+{"en": "nature", "pos": "명사", "ko": "자연", "level": "21학년도 수능 21"}
+{"en": "fight against", "pos": "동사", "ko": "~에 맞서 싸우다", "level": "21학년도 수능 21"}
+{"en": "widespread", "pos": "형용사", "ko": "널리 퍼진", "level": "21학년도 수능 21"}
+{"en": "violation", "pos": "명사", "ko": "침해", "level": "21학년도 수능 21"}
+{"en": "rewrite", "pos": "동사", "ko": "다시 쓰다", "level": "21학년도 수능 21"}
+{"en": "underrepresent", "pos": "동사", "ko": "충분히 대표하지 못하다", "level": "21학년도 수능 21"}
+{"en": "restrict", "pos": "동사", "ko": "제한하다", "level": "21학년도 수능 21"}
+{"en": "lawmaker", "pos": "명사", "ko": "법률 제정가", "level": "21학년도 수능 21"}
+  
 {"en": "startle", "pos": "동사", "ko": "놀라게 하다", "level": "25학년도 수능 37"},
 {"en": "assess", "pos": "동사", "ko": "평가하다", "level": "25학년도 수능 37"},
 {"en": "threat", "pos": "명사", "ko": "위협", "level": "25학년도 수능 37"},
